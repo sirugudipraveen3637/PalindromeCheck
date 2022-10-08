@@ -3,7 +3,7 @@
 ##### Published Url:-N/A
 
 
-<img src="https://github.com/sirugudipraveen3637/PalindromeCheck/blob/main/palindrome.png" height="50%" width="100%"/>
+<img src="https://github.com/sirugudipraveen3637/PalindromeCheck/blob/main/palindrome.PNG" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
