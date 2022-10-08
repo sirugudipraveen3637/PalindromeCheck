@@ -1,4 +1,4 @@
-# WordCount App
+# Palindrome Check App
 
 ##### Published Url:-N/A
 
